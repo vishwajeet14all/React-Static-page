@@ -1,3 +1,10 @@
+#Sample_Project->Static-Page
+
+#Tack_Stack_Used->JSX,React
+
+#Output
+![Screenshot 2023-06-13 145552](https://github.com/vishwajeet14all/React-Static-page/assets/126787994/b97ce9c9-2d4e-44af-911c-2412953779dc)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
